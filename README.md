@@ -1,1 +1,1 @@
-# Applications-Of-AI-ML-For-CyberSecurity
+# Applications-Of-AIML-For-CyberSecurity
